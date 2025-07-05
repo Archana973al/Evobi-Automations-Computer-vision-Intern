@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# virtual Environments
+tracking_env
+
+
+# Deep learning models (large files)
+*.pt
+
+
+
+
+
+
+
+
